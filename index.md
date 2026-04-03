@@ -17,6 +17,7 @@ Currently IT Operations Engineer at Applied Intuition, serving as on-site IT Ope
 - Managed IT Operations for the Ann Arbor office, including day-to-day break fix as well as engineering and implementing future solutions
 - Managed full-stack infrastructure including FortiNet, Palo Alto, and Meraki, Dell PowerEdge servers (ESXI cluster hosting vSphere), UPS, Veeam backup server, CI/CD servers (Jenkins), HP Nimble (iSCSI storage), Windows File Servers, and Synology NAS
 - Spearheaded Jira Service Management as the enterprise ticketing platform, establishing workflows, service standards, and a formal change management process that didn't exist prior
+- Led company-wide change initiatives, including improving wifi connectivity and network performance
 - Deployed Nessus vulnerability management to improve security posture and support SOC2 audit readiness
 - Architecting a unified device lifecycle and patch management program integrating Okta, JumpCloud, Kandji, Kolide XAM, and Oomnitza
 
