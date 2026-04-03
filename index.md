@@ -24,5 +24,7 @@ Currently IT Operations Engineer at Applied Intuition, serving as on-site IT Ope
 
 A.A.S., Network Systems Administration -- DeVry University
 
-- CompTIA Security+ | Network+ | A+
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
 - CompTIA CySA+ -- In Progress
