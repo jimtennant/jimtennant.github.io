@@ -21,9 +21,10 @@ Currently IT Operations Engineer at Applied Intuition, serving as on-site IT lea
 - Architecting a unified device lifecycle and patch management program integrating Okta, JumpCloud, Kandji, Kolide XAM, and Oomnitza
 
 ## Education and Certifications
-A.A.S., Network Systems Administration – DeVry University
 
-CompTIA A+
-CompTIA Network+
-CompTIA Security+
-CompTIA CySA+ – In Progress
+- A.A.S., Network Systems Administration – DeVry University
+
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA CySA+ – In Progress
