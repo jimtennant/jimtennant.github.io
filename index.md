@@ -23,7 +23,6 @@ Currently IT Operations Engineer at Applied Intuition, serving as on-site IT lea
 ## Education and Certifications
 
 - A.A.S., Network Systems Administration – DeVry University
-
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
