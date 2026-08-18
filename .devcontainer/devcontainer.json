@@ -26,6 +26,8 @@
         "mhutchie.git-graph",
         // Claude Code
         "anthropic.claude-code"
+        // ChatGPT
+        "openai.chatgpt"
       ]
     }
   }
