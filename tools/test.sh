@@ -60,6 +60,9 @@ main() {
   JEKYLL_ENV=production bundle exec jekyll b \
     -d "$SITE_DIR$_baseurl" -c "$_config"
 
+  # regression checks
+  python3 tools/check_services_layout.py "$SITE_DIR$_baseurl/services/index.html"
+
   # test
   bundle exec htmlproofer "$SITE_DIR" \
     --disable-external \
