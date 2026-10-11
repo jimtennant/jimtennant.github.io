@@ -6,7 +6,7 @@ order: 2
 description: Practical IT consulting and project support for growing organizations.
 ---
 
-# Practical IT support for growing organizations
+## Practical IT support for growing organizations
 
 Reliable technology should make it easier to run your business—not create more work. I help small and growing organizations improve their IT systems, solve infrastructure problems, and build practical processes that can scale with them.
 
