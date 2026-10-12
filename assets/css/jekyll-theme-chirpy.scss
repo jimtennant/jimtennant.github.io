@@ -1,0 +1,22 @@
+---
+---
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}'
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Hide Chirpy's heading permalink glyphs. They remain in the markup for
+   direct fragment links, but should not appear beside every heading. */
+h2 .anchor,
+h3 .anchor,
+h4 .anchor,
+h5 .anchor {
+  display: none;
+}
